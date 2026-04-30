@@ -28,7 +28,11 @@ Here are some ideas to get you started:
 ## 🚀 Project
 **FinDraft** (기획 및 개발 중)
 - 몬테카를로 시뮬레이션 기반 개인 맞춤형 자산 예측 웹 서비스
-- 복잡한 확률 연산 로직 구성 및 데이터 시각화 아키텍처 설계 중
+- 확률 연산 로직 구성 및 데이터 시각화 아키텍처 설계 중
+
+**StrictGrid** (기획 및 개발 중)
+- 자산 관리 형식의 개인 맞춤형 루틴 설계 서비스
+
 
 ## 📫 Contact
 - **Email:** hufscom123@hufs.ac.kr
