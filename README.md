@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 ## 안녕하세요, 박상윤입니다.
 
-이론과 원리를 깊게 파고드는 것을 좋아하지만, 완벽주의에 갇히기보다는 실질적인 결과물을 만들어내는 실행에 무게를 두고 있습니다.
-
 ## 🛠️ Tech Stack
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
